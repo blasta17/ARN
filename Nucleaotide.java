@@ -1,6 +1,5 @@
 package TP1PRO2;
 
-import java.util.ArrayList;
 
 public class Nucleaotide {
 
